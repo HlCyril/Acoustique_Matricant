@@ -15,4 +15,5 @@ Le format des shape est le suivant :
 - Nombre_pulsations : nombre total de pulsation
 - Nombre_angles     : nombre d'angle
 - dimension         : dimensions sptiales
+
 Ce qui nous donne au final des shape du type (Nombre_couches,Nombre_pulsations,Nombre_angles,dimension,dimension). Vous comprendrez ainsi que même si vous utilisez un seul angle il faudra le définir comme un liste.
