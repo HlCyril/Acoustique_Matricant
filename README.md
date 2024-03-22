@@ -18,4 +18,4 @@ Le format des shape est le suivant :
 
 Ce qui nous donne au final des shape du type (Nombre_couches,Nombre_pulsations,Nombre_angles,dimension,dimension). Vous comprendrez ainsi que même si vous utilisez un seul angle il faudra le définir comme un liste.
 
-La méthode que j'ai utilisée est présentée dans la thèse de Cécile Baron "Le Développement en Série de Peano du Matricant Pour l’Etude de la Propagation des Ondes Elastiques en Milieux à Propriétés Continûment Variables" (2006)
+La méthode que j'ai utilisée est présentée dans la thèse de Cécile Baron "Le Développement en Série de Peano du Matricant Pour l’Etude de la Propagation des Ondes Elastiques en Milieux à Propriétés Continûment Variables" (2006).
