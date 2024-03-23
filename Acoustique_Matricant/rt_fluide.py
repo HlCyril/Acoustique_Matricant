@@ -91,7 +91,6 @@ class RT_fluide():
         
         N_omega = Y1_n.shape[1]
         N_angles = Y1_n.shape[2]
-        N_angles = 1
         Y1_n.shape = (1,N_omega,N_angles,1,1)
         Y2_n.shape = (1,N_omega,N_angles,1,1)
         Y4_n.shape = (1,N_omega,N_angles,1,1)
