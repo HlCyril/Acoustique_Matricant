@@ -1,8 +1,0 @@
-'Unit cell' :
-     - '1'
-# '1' : #Air intérieur 20°C
-#     rho : 1,204
-#     c : 0.3432332
-'1' : #Eau
-    rho : 1.
-    c : 1.484
