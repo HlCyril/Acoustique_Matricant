@@ -40,4 +40,5 @@ class Ploter():
                     cbar.ax.tick_params(labelsize=fontsize)
         plt.suptitle(title,fontsize=fontsize)
         fig.tight_layout()
+        plt.show()
         pass
