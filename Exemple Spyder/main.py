@@ -140,5 +140,4 @@ if __name__ == "__main__":
         labels = [['T']]
         extent = [min_f,max_f,min_theta,max_theta]
         cmap = 'jet'
-        print('Afficher')
         afficher_figure.multi_plot(xy, 1,1,figsize,title,labels,extent,cmap,xy_labels,fontsize)
